@@ -5,6 +5,7 @@ install it and you'll find the entry in **UV/Image-editor**➞**Image**➞**Save
 ![enter image description here][2]
 
 to install :
+
 ![enter image description here][3]
 
 
